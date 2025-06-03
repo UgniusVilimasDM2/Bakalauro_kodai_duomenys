@@ -1,7 +1,7 @@
 # Bakalauro_kodai_duomenys
 Bakalauro darbo kodai ir naudoti duomenys
 
-Iš viso yra 11 kodų ir 3 duomenų failai.
+Iš viso yra 11 kodų ir 3 duomenų failai*.
 01 kode yra susitvarkomi duomenys, užpildomos NA reikšmės, pataisomi neteisingi ir nelogiški duomenų įrašai.
 02 kode yra sukuriami bendrieji modeliai ir patikrinamos hipotezės.
 03 kode yra prognozuojami nepriklausomi kintamieji su ARIMA metodu.
